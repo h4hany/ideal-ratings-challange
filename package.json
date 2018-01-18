@@ -1,0 +1,15 @@
+{
+  "name": "idealratings-challange",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hany",
+  "license": "ISC",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "js-sha1": "^0.6.0"
+  }
+}
